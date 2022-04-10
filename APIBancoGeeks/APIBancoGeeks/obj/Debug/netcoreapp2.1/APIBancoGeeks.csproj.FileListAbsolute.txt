@@ -1,0 +1,14 @@
+C:\Users\57317\Documents\Prueba\APIBancoGeeks\APIBancoGeeks\bin\Debug\netcoreapp2.1\APIBancoGeeks.deps.json
+C:\Users\57317\Documents\Prueba\APIBancoGeeks\APIBancoGeeks\bin\Debug\netcoreapp2.1\APIBancoGeeks.runtimeconfig.json
+C:\Users\57317\Documents\Prueba\APIBancoGeeks\APIBancoGeeks\bin\Debug\netcoreapp2.1\APIBancoGeeks.runtimeconfig.dev.json
+C:\Users\57317\Documents\Prueba\APIBancoGeeks\APIBancoGeeks\bin\Debug\netcoreapp2.1\APIBancoGeeks.dll
+C:\Users\57317\Documents\Prueba\APIBancoGeeks\APIBancoGeeks\bin\Debug\netcoreapp2.1\APIBancoGeeks.pdb
+C:\Users\57317\Documents\Prueba\APIBancoGeeks\APIBancoGeeks\obj\Debug\netcoreapp2.1\APIBancoGeeks.csprojAssemblyReference.cache
+C:\Users\57317\Documents\Prueba\APIBancoGeeks\APIBancoGeeks\obj\Debug\netcoreapp2.1\APIBancoGeeks.csproj.CoreCompileInputs.cache
+C:\Users\57317\Documents\Prueba\APIBancoGeeks\APIBancoGeeks\obj\Debug\netcoreapp2.1\APIBancoGeeks.RazorAssemblyInfo.cache
+C:\Users\57317\Documents\Prueba\APIBancoGeeks\APIBancoGeeks\obj\Debug\netcoreapp2.1\APIBancoGeeks.RazorAssemblyInfo.cs
+C:\Users\57317\Documents\Prueba\APIBancoGeeks\APIBancoGeeks\obj\Debug\netcoreapp2.1\APIBancoGeeks.AssemblyInfoInputs.cache
+C:\Users\57317\Documents\Prueba\APIBancoGeeks\APIBancoGeeks\obj\Debug\netcoreapp2.1\APIBancoGeeks.AssemblyInfo.cs
+C:\Users\57317\Documents\Prueba\APIBancoGeeks\APIBancoGeeks\obj\Debug\netcoreapp2.1\APIBancoGeeks.RazorTargetAssemblyInfo.cache
+C:\Users\57317\Documents\Prueba\APIBancoGeeks\APIBancoGeeks\obj\Debug\netcoreapp2.1\APIBancoGeeks.dll
+C:\Users\57317\Documents\Prueba\APIBancoGeeks\APIBancoGeeks\obj\Debug\netcoreapp2.1\APIBancoGeeks.pdb
